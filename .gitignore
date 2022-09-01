@@ -1,0 +1,127 @@
+\.DS_Store
+
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.pyc
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+#Java
+*.factorypath
+*.class
+**/target/
+.metdadata/
+**/*.settings/
+.recommenders
+**/.classpath
+**/.project
+RemoteSystemsTempFiles/
+
+
+
+\.metadata/
+
+
+*.idea
+
+*.iws
+*.ipr
+
+*.iml
+locale/*.*
+
+\.ideaDataSources/*.*
+
+*/dataSources/*.*
+
+node_modules/*
+
+
+dataSources/
+node_modules
+dist
+
+# compiled output  
+/dist
+dist/  
+/tmp
+tmp/
+/out-tsc
+out-tsc/  
+  
+# dependencies  
+/node_modules  
+node_modules/
+  
+# IDEs and editors  
+/.idea
+.idea/  
+.project  
+.classpath  
+.c9/  
+*.launch  
+.settings/  
+*.sublime-workspace  
+  
+# IDE - VSCode  
+.vscode/*  
+!.vscode/settings.json  
+!.vscode/tasks.json  
+!.vscode/launch.json  
+!.vscode/extensions.json  
+  
+# misc  
+/.sass-cache  
+/connect.lock  
+/coverage  
+/libpeerconnection.log  
+npm-debug.log  
+yarn-error.log  
+testem.log  
+/typings  
+  
+# System Files  
+.DS_Store  
+Thumbs.db
+
